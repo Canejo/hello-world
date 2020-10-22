@@ -6,4 +6,4 @@
 3. docker run -it --rm -d -p 8080:80 --name canejo/hello-world
 
 ## Ou direto do DockerHub:
-docker run --rm -p 8080:8080 canejo/hello-world
+docker run --rm -p 8080:80 canejo/hello-world
